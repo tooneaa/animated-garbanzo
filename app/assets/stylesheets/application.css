@@ -19,6 +19,12 @@
 
 }
 
+#results {
+   clear: both;
+
+}
+
+
 .no-padding {
   padding: 0 !important;
 }
